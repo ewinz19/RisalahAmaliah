@@ -52,6 +52,6 @@ Risalah ini memuat amalan harian yang disusun oleh KH. M. Qusairi Hamzah dan dik
 
 ---
 
-## 🔖 Tags / Kata Kunci
+## 🔖 Tags 
 
 Download Risalah Amaliah APK KH. M. Qusairi Hamzah,Risalah Amaliah, Qusairi Hamzah, APK, download apk, dzikir harian, kitab amaliah, android islamic app, amalan pesantren
