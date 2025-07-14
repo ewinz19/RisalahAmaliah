@@ -3,7 +3,8 @@
 
 <div dir="ltr">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيْم</div>
 
-Aplikasi Android untuk membaca
+
+Aplikasi Android offline untuk membaca
 
 dan mengamalkan **Risalah Amaliah** 
 
@@ -16,7 +17,7 @@ Koleksi pribadi
 
 saya Tidak terikat sama pihak manapun
 
-Semoga berkah dan mudah diakes di era digital
+Semoga berkah dan mudah diakses di era digital ini.
 ###
 
 <h2>Download risalah amaliyah H M.Qusairi Hamzah apk</h2>
