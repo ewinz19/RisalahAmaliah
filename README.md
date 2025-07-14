@@ -32,6 +32,6 @@ https://www.virustotal.com/gui/file/8ff474199be70d3610c501b414f6deb4f581107de602
 
 ##
 <h2>Screenshot Home</h2>
-<img src="https://raw.githubusercontent.com/ewinz19/RisalahAmaliah/main/Images/screenshot.jpg" alt="Tampilan Home" width="300"/>
+<img src="https://raw.githubusercontent.com/ewinz19/RisalahAmaliah/main/Images/Screenshot.jpg" alt="Tampilan Home" width="300"/>
 
 ##
