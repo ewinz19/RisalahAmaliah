@@ -1,5 +1,11 @@
-# Risalah Amaliah
-H M.Qusairi Hamzah
+# Risalah Amaliah APK - H. M. Qusairi Hamzah
+
+Aplikasi Android untuk membaca
+
+dan mengamalkan **Risalah Amaliah** 
+
+karya **KH. M. Qusairi Hamzah**.
+
 
 ِبِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيْم
 
@@ -11,7 +17,7 @@ saya Tidak terikat sama pihak manapun
 Semoga berkah dan mudah diakes di era digital
 ###
 
-download :
+Download risalah amaliyah H M.Qusairi Hamzah apk :
 <p align="left">
   <a href="https://github.com/ewinz19/RisalahAmaliah/releases/download/%23risalah/Risalah_amaliah.apk">
     <img src="https://img.shields.io/badge/Download-v1.0.0-blue?style=flat-square&logo=github" alt="Download">
@@ -36,3 +42,14 @@ https://www.virustotal.com/gui/file/8ff474199be70d3610c501b414f6deb4f581107de602
 <img src="https://raw.githubusercontent.com/ewinz19/RisalahAmaliah/main/Images/Screenshot.jpg" alt="Tampilan Home" width="300"/>
 
 ##
+
+
+## Tentang Aplikasi
+
+Risalah ini memuat amalan harian yang disusun oleh KH. M. Qusairi Hamzah dan dikemas dalam bentuk aplikasi Android.
+
+---
+
+## 🔖 Tags / Kata Kunci
+
+Risalah Amaliah, Qusairi Hamzah, APK, download apk, dzikir harian, kitab amaliah, android islamic app, amalan pesantren
