@@ -1,5 +1,8 @@
 # RisalahAmaliah
 
+ِبِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيْم
+
+##
 Koleksi pribadi 
 
 saya Tidak terikat sama pihak manapun
@@ -16,3 +19,8 @@ download :
 
 ###
 
+##
+<h2>Screenshot Home</h2>
+<img src="https://raw.githubusercontent.com/ewinz19/RisalahAmaliah/main/Images/screenshot.jpg" alt="Tampilan Home" width="300"/>
+
+##
