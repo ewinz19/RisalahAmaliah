@@ -18,6 +18,17 @@ download :
 </p>
 
 ###
+fingerprint 
+
+sha1 3D:5D:F4:D6:85:88:CF:0B:74:0E:18:24:18:F7:B6:E5:6E:33:13:87
+##
+
+hash file: 8ff474199be70d3610c501b414f6deb4f581107de602ec511f0d4fa633793930
+
+##
+cek virus Total
+
+https://www.virustotal.com/gui/file/8ff474199be70d3610c501b414f6deb4f581107de602ec511f0d4fa633793930/detection
 
 ##
 <h2>Screenshot Home</h2>
