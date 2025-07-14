@@ -51,7 +51,21 @@ https://www.virustotal.com/gui/file/8ff474199be70d3610c501b414f6deb4f581107de602
 
 Risalah ini memuat amalan harian yang disusun oleh KH. M. Qusairi Hamzah dan dikemas dalam bentuk aplikasi Android.
 
----
+
+## Disclaimer
+
+Aplikasi ini dibuat semata-mata untuk kemudahan membaca dan mengamalkan **Risalah Amaliah**.
+
+Jika ada pihak yang merasa **keberatan** atas repository atau rilis ini,  
+saya **siap untuk menghapus release** tersebut dengan penuh hormat.
+
+Begitu pula, jika Anda memiliki **kritik, saran, atau masukan**,  
+silakan hubungi saya melalui halaman berikut:
+
+🔗 [https://github.com/ewinz19/RisalahAmaliah/issues/new](https://github.com/ewinz19/RisalahAmaliah/issues/new)
+
+Terima kasih atas perhatian dan pengertiannya.
+
 
 ## 🔖 Tags 
 
