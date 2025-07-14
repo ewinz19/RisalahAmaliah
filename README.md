@@ -1,4 +1,6 @@
-# Risalah Amaliah APK - H. M. Qusairi Hamzah
+# Risalah Amaliah APK - H. M. Qusairi Hamzah 
+
+<div dir="ltr">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيْم</div>
 
 Aplikasi Android untuk membaca
 
@@ -7,9 +9,8 @@ dan mengamalkan **Risalah Amaliah**
 karya **KH. M. Qusairi Hamzah**.
 
 
-ِبِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيْم
 
-##
+###
 Koleksi pribadi 
 
 saya Tidak terikat sama pihak manapun
