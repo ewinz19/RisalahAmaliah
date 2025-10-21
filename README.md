@@ -1,4 +1,3 @@
-# Risalah Amaliah APK (Android Dzikir Harian KH. M. Qusairi Hamzah)
 # Download Risalah Amaliah APK – KH. M. Qusairi Hamzah
 
 
