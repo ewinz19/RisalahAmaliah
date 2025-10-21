@@ -37,7 +37,7 @@ Proyek ini bersifat **non-komersial** dan terbuka untuk publik:
 ---
 
 ## 🔖 Tag dan Kata Kunci SEO
-#Risalahamaliah
+Risalahamaliah
 ---
 
 🕌 *Didedikasikan untuk kemudahan umat dalam berdzikir dan beribadah.*
