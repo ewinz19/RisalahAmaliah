@@ -23,7 +23,7 @@ Semoga berkah dan mudah diakses di era digital ini.
 <h2>Download risalah amaliyah H M.Qusairi Hamzah apk</h2>
 <p align="left">
   <a href="https://github.com/ewinz19/RisalahAmaliah/releases/download/Risalahamaliah/Risalah_amaliah.apk">
-    <img src="https://img.shields.io/badge/Download-v1.1.0-blue?style=flat-square&logo=github" alt="Download">
+    <img src="https://img.shields.io/badge/Download-latest-blue?style=flat-square&logo=github" alt="Download">
   </a>
 </p>
 
