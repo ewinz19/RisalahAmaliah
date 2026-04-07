@@ -22,18 +22,15 @@ Semoga berkah dan mudah diakses di era digital ini.
 
 <h2>Download risalah amaliyah H M.Qusairi Hamzah apk</h2>
 <p align="left">
-  <a href="https://github.com/ewinz19/RisalahAmaliah/releases/download/Risalahamaliah/Risalah_amaliah.apk">
+  <a href="https://github.com/ewinz19/RisalahAmaliah/releases/download/Risalahamaliah/RisalahAmaliah-2026.apk">
     <img src="https://img.shields.io/badge/Download-latest-blue?style=flat-square&logo=github" alt="Download">
   </a>
 </p>
 
 ###
-fingerprint 
 
-sha1 3D:5D:F4:D6:85:88:CF:0B:74:0E:18:24:18:F7:B6:E5:6E:33:13:87
-##
 
-hash file: a12c83fc427c7d30a3d3d879e059b0e48b5369b6e013c761c7f5880938fa64f1
+SHA-256: 80c3402f2ba07c25036647e2944d1bea1acc760ef07a09a991b516d85a32e439
 
 ##
 cek virus Total
