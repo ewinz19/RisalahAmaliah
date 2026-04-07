@@ -30,7 +30,7 @@ Semoga berkah dan mudah diakses di era digital ini.
 ###
 
 
-SHA-256: 80c3402f2ba07c25036647e2944d1bea1acc760ef07a09a991b516d85a32e439
+SHA-256: 3464c71a1382007d85374e8ff3950876f1fdaeff00e96081f50fbd6e4dd88571
 
 ##
 cek virus Total
