@@ -35,7 +35,7 @@ SHA-256: 3464c71a1382007d85374e8ff3950876f1fdaeff00e96081f50fbd6e4dd88571
 ##
 cek virus Total
 
-https://www.virustotal.com/gui/file/8ff474199be70d3610c501b414f6deb4f581107de602ec511f0d4fa633793930/detection
+https://www.virustotal.com/gui/file/3464c71a1382007d85374e8ff3950876f1fdaeff00e96081f50fbd6e4dd88571/detection
 
 ##
 <h2>Screenshot Home</h2>
